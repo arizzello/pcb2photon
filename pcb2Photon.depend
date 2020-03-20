@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1583857565 source:d:\eproject\0-cplusplus\pcb2photon\pcb2photon\main.c
+	<stdio.h>
+	<stdlib.h>
+	"photon.h"
+	"stb_image.h"
+	"stb_image_resize.h"
+
+1583795763 d:\eproject\0-cplusplus\pcb2photon\pcb2photon\photon.h
+	<stdint.h>
+
+1583683329 d:\eproject\0-cplusplus\pcb2photon\pcb2photon\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1583683272 d:\eproject\0-cplusplus\pcb2photon\pcb2photon\stb_image_resize.h
+	"stb_image_resize.h"
+	<stdint.h>
+	<assert.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
