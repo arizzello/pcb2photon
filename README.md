@@ -16,4 +16,5 @@ Options:<br>
 
 
 # Author
-Alessandro Santo Rizzello - arizzello@essenza.ws
+Alessandro Santo Rizzello - arizzello@essenza.ws<br>
+It's my first time on github, please be gentle :-)<br>
