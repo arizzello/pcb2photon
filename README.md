@@ -13,3 +13,7 @@ Options:<br>
 -h : this help<br>
 -c : center image on lcd<br>
 
+
+
+#Author
+Alessandro Santo Rizzello - arizzello@essenza.ws
